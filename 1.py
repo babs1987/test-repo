@@ -1,6 +1,12 @@
 import math
 from random import randint
 
+
+a=5
+print(f"{a=}")
+
+
+
 """
 1.Преобразвует вывод функции к строке
 """
@@ -14,6 +20,7 @@ def to_string(func) -> str:
 
 """
 2.Замалчивает все ошибки
+
 """
 
 
